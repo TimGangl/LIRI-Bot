@@ -16,13 +16,13 @@ The last section of this app user runs app: `node liri.js do-what-it-says`. This
  ## Depolyment
  To run this app you need the following npm packages:
  <br>
- 1.axios
+ 1. axios
  <br>
- 2.dotenv
+ 2. dotenv
  <br>
- 3.fs
+ 3. fs
  <br>
- 4.moment
+ 4. moment
  <br>
- 5.node-spotify-api
+ 5. node-spotify-api
  
