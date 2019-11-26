@@ -1,6 +1,7 @@
 # LIRI-Bot
 This purpose of this project was to create a node.js app that users can use to query Bands In Town API, Spotify API and OMDB API.
 <br>
+## Getting Started
 <br>
 For the Bands In Town the user starts by running the app: `node liri.js concert-this <artist/ band name>`, which brings the next five up concerts up and formats by the Venue name, City, State and date of concert.
 <br>
@@ -14,6 +15,10 @@ For the OMDB section of this user runs app: `node liri.js movie-this <movie name
 The last section of this app user runs app: `node liri.js do-what-it-says`. This takes information in the random.txt file and finds information, in this case it looks at spotify for "I want it that way.
  
  ## Depolyment
+ Run code from the above paragraph once packages are installed.
+ <br>
+ Install packages with the following code `npm i <package>`
+ <br>
  To run this app you need the following npm packages:
  <br>
  1. axios
@@ -21,4 +26,10 @@ The last section of this app user runs app: `node liri.js do-what-it-says`. This
  3. fs
  4. moment
  5. node-spotify-api
+ 
+ ## Built with 
+ 1. Node
+ 2. Bands In Town API
+ 3. OMDB API
+ 4. Spotify API
  
