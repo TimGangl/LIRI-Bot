@@ -33,21 +33,17 @@ The last section of this app user runs app: `node liri.js do-what-it-says`. This
  3. OMDB API
  4. Spotify API
  ## Screenshots
- <br>
- `concert-this`
+ concert-this
  <br>
  ![Bands in town](concert-liri.png)
+ spotify-this
  <br>
- `spotify-this-song`
- <br>
- ![Spotify](spotify-liri.png)
- <br>
- `movie-this`
+ ![spotify](spotify.liri.png)
+ movie-this
  <br>
  ![OMDB](omdb-liri.png)
- <br>
- `do-what-it-says`
+ do-what-it-say
  <br>
  ![random](random-liri.png)
- 
+
  
