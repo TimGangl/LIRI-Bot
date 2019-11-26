@@ -1,5 +1,5 @@
 # LIRI-Bot
-This purpose of this project was to create a node.js app that users can use to query Bands In Town API, Spotify API and OMDB API.
+This purpose of this project was to create a node.js app that users can use to query Bands In Town API, Spotify API and OMDB API, to find out information about concerts, music and movies. 
 <br>
 ## Getting Started
 <br>
